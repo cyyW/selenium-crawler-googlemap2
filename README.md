@@ -11,7 +11,7 @@
   - 請確認自身 google chrome 版本，並由此下載相應之版本
 
 ## 運作
-* ppt : [程式運作報告]([https://github.com/cyyW/selenium-crawler-googlemap2/blob/main/%E5%9C%B0%E6%A8%99%E8%A9%95%E8%AB%96.xlsx](https://1drv.ms/p/c/a749b4a39ccddf0d/EQLEKxz1GrxProZSpWG8bZoBmhBq5XOdYNkRt5pLE4tPew?e=RBNWGi&nav=eyJzSWQiOjI1NiwiY0lkIjoyNTkyMTI5OTQ2fQ))
+* ppt : [程式運作報告](https://1drv.ms/p/c/a749b4a39ccddf0d/EQLEKxz1GrxProZSpWG8bZoBmhBq5XOdYNkRt5pLE4tPew?e=RBNWGi&nav=eyJzSWQiOjI1NiwiY0lkIjoyNTkyMTI5OTQ2fQ)
 
 ## 提示
 * 如若電腦記憶體無法負荷一次抓取所有資料，請自行將資料抓取拆分成多輪進行，但可能導致兩輪店家有重複請自行檢查
