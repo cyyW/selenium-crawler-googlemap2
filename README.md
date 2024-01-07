@@ -10,6 +10,9 @@
 * chrome driver : https://chromedriver.chromium.org/downloads
   - 請確認自身 google chrome 版本，並由此下載相應之版本
 
+## 運作
+* ppt : [程式運作報告]([https://github.com/cyyW/selenium-crawler-googlemap2/blob/main/%E5%9C%B0%E6%A8%99%E8%A9%95%E8%AB%96.xlsx](https://1drv.ms/p/c/a749b4a39ccddf0d/EQLEKxz1GrxProZSpWG8bZoBmhBq5XOdYNkRt5pLE4tPew?e=RBNWGi&nav=eyJzSWQiOjI1NiwiY0lkIjoyNTkyMTI5OTQ2fQ))
+
 ## 提示
 * 如若電腦記憶體無法負荷一次抓取所有資料，請自行將資料抓取拆分成多輪進行，但可能導致兩輪店家有重複請自行檢查
 * 推算達到所需資料數平均每個景點所需資料數 mu ，由於過程中會將空白留言之資料進行刪除，因此建議將 mu 數值稍作增加
